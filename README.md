@@ -23,6 +23,7 @@ python main.py draw --N=35 --lev=3
 ```
 
 Other lev options:
+
 | lev | details                                            |
 | --- | -------------------------------------------------- |
 |   1 | Nothing                                            |
